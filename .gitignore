@@ -1,0 +1,10 @@
+img_align_celeba/
+data/
+celeba/
+hw2_models/
+*.pt
+*.pth
+*.ckpt
+.ipynb_checkpoints/
+__pycache__/
+.venv/
